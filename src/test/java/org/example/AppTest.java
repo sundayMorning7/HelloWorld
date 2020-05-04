@@ -36,8 +36,9 @@ public class AppTest
     public void thirdTest()
     {
         //"https://www.rahulshettyacademy.com/AutomationPractice/"
-        System.out.println("thirdTest");
+        System.out.println("thirdTest beginning");
         assertTrue( false );
+        System.out.println("thirdTest end");
     }
 
     @AfterTest
