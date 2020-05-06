@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Useless Suite">
+  <test name="UselessTest">
+    <classes>
+      <class name="org.example.UselessTest">
+        <methods>
+          <include name="uselessEmptyTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test> <!-- MavenTest -->
+</suite> <!-- Default Suite -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AllSuite">
+  <test name="AllTest">
+    <classes>
+      <class name="org.example.AppTest"/>
+      <class name="org.example.UselessTest"/>
+    </classes>
+  </test> <!-- MavenTest -->
+</suite> <!-- Default Suite -->

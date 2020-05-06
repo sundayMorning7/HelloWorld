@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    public void firstTest() {
+        System.out.println("firstTest");
+    }
 }
